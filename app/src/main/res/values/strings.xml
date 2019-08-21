@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
     <string name="landing_text">Hello Friends</string>
-    <string name="edit_message">Enter %s %s %% a messagse</string>
-    <string name="button_send">Send\\ %$1s &amp;&lt;@?</string>
+    <string name="edit_message">Edit message</string>
+    <string name="button_send">My name is %s</string>
+    <string name="landing_text_2">Test</string>
+    <string name="OKCredit">OKCredit is really cool</string>
 </resources>

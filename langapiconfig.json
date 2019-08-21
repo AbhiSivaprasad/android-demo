@@ -1,0 +1,11 @@
+{
+  "originalLanguage": "en",
+  "originalSourceFile": "app\\src\\main\\res\\values\\strings.xml",
+  "apiKey": "sk_test_0cc3102b-5b66-4b29-8180-24381dcae588",
+  "languages": [
+    {
+      "targetLanguage": "hi",
+      "targetSourceFile": "app\\src\\main\\res\\values-hi\\strings.xml"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <!--Translation type: Machine-->
+    <string name="landing_text">नमस्कार दोस्तों</string>
+    <!--Translation type: Machine-->
+    <string name="edit_message">संदेश संपादित करें</string>
+    <!--Translation type: Machine-->
+    <string name="button_send">मेरा नाम %s है</string>
+    <!--Translation type: Machine-->
+    <string name="landing_text_2">परीक्षा</string>
+    <!--Translation type: Machine-->
+    <string name="OKCredit">OKCredit वास्तव में अच्छा है</string>
+</resources>
