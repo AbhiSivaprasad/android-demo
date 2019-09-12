@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Translation type: Machine-->
+    <string name="app_tagline">ਆਸਾਨ. ਠੋਸ. ਸੁਰੱਖਿਅਤ.</string>
+    <!--Translation type: Machine-->
+    <string name="txn_invalid_amount">ਗਲਤ ਰਕਮ</string>
+    <!--Translation type: Machine-->
+    <string name="txn_incorrect_password">ਗਲਤ ਗੁਪਤ - ਕੋਡ</string>
+</resources>
